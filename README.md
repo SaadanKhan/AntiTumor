@@ -1,0 +1,1 @@
+This is my Final Year Project, in which I have deployed Deep Learning Model CNN in django project. For some restrictions, I have not added my trained Deep Learning Model file in this project, you can follow this YouTube tutorial (https://www.youtube.com/watch?v=7MceDfpnP8k) for model training dataset collection. I have done all the deployment steps in this.
